@@ -1,0 +1,15 @@
+/Users/husseinmohamed/Desktop/GIK299_huseen_mahamed_labb2./GIK299_huseen_mahamed_labb2/bin/Debug/net7.0/GIK299_huseen_mahamed_labb2.
+/Users/husseinmohamed/Desktop/GIK299_huseen_mahamed_labb2./GIK299_huseen_mahamed_labb2/bin/Debug/net7.0/GIK299_huseen_mahamed_labb2..deps.json
+/Users/husseinmohamed/Desktop/GIK299_huseen_mahamed_labb2./GIK299_huseen_mahamed_labb2/bin/Debug/net7.0/GIK299_huseen_mahamed_labb2..runtimeconfig.json
+/Users/husseinmohamed/Desktop/GIK299_huseen_mahamed_labb2./GIK299_huseen_mahamed_labb2/bin/Debug/net7.0/GIK299_huseen_mahamed_labb2..dll
+/Users/husseinmohamed/Desktop/GIK299_huseen_mahamed_labb2./GIK299_huseen_mahamed_labb2/bin/Debug/net7.0/GIK299_huseen_mahamed_labb2..pdb
+/Users/husseinmohamed/Desktop/GIK299_huseen_mahamed_labb2./GIK299_huseen_mahamed_labb2/obj/Debug/net7.0/GIK299_huseen_mahamed_labb2..csproj.AssemblyReference.cache
+/Users/husseinmohamed/Desktop/GIK299_huseen_mahamed_labb2./GIK299_huseen_mahamed_labb2/obj/Debug/net7.0/GIK299_huseen_mahamed_labb2..GeneratedMSBuildEditorConfig.editorconfig
+/Users/husseinmohamed/Desktop/GIK299_huseen_mahamed_labb2./GIK299_huseen_mahamed_labb2/obj/Debug/net7.0/GIK299_huseen_mahamed_labb2..AssemblyInfoInputs.cache
+/Users/husseinmohamed/Desktop/GIK299_huseen_mahamed_labb2./GIK299_huseen_mahamed_labb2/obj/Debug/net7.0/GIK299_huseen_mahamed_labb2..AssemblyInfo.cs
+/Users/husseinmohamed/Desktop/GIK299_huseen_mahamed_labb2./GIK299_huseen_mahamed_labb2/obj/Debug/net7.0/GIK299_huseen_mahamed_labb2..csproj.CoreCompileInputs.cache
+/Users/husseinmohamed/Desktop/GIK299_huseen_mahamed_labb2./GIK299_huseen_mahamed_labb2/obj/Debug/net7.0/GIK299_huseen_mahamed_labb2..dll
+/Users/husseinmohamed/Desktop/GIK299_huseen_mahamed_labb2./GIK299_huseen_mahamed_labb2/obj/Debug/net7.0/refint/GIK299_huseen_mahamed_labb2..dll
+/Users/husseinmohamed/Desktop/GIK299_huseen_mahamed_labb2./GIK299_huseen_mahamed_labb2/obj/Debug/net7.0/GIK299_huseen_mahamed_labb2..pdb
+/Users/husseinmohamed/Desktop/GIK299_huseen_mahamed_labb2./GIK299_huseen_mahamed_labb2/obj/Debug/net7.0/GIK299_huseen_mahamed_labb2..genruntimeconfig.cache
+/Users/husseinmohamed/Desktop/GIK299_huseen_mahamed_labb2./GIK299_huseen_mahamed_labb2/obj/Debug/net7.0/ref/GIK299_huseen_mahamed_labb2..dll
